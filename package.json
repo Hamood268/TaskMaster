@@ -1,21 +1,21 @@
 {
-  "name": "tasks-manager-cli",
+  "name": "taskmaster",
   "version": "1.0.0",
-  "description": "A cli tool to help manage taks",
+  "description": "A lightweight, interactive command-line Task Manager built with Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hamood268/Tasks-Manager-CLI.git"
+    "url": "git+https://github.com/Hamood268/TaskMaster.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hamood268/Tasks-Manager-CLI/issues"
+    "url": "https://github.com/Hamood268/TaskMaster/issues"
   },
-  "homepage": "https://github.com/Hamood268/Tasks-Manager-CLI#readme",
+  "homepage": "https://github.com/Hamood268/TaskMaster#readme",
   "dependencies": {
     "chalk": "^5.4.1",
     "clear": "^0.1.0",
